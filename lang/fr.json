@@ -1,0 +1,17 @@
+{
+  "COC7LUCK": {
+    "ButtonTitle": "Chance du groupe",
+    "WindowTitle": "Chance des investigateurs",
+    "ColName": "Investigateur",
+    "ColLuck": "Chance",
+    "ColEra": "Époque",
+    "Lowest": "Valeur la plus basse",
+    "Refresh": "Actualiser",
+    "NoActors": "Aucun personnage joueur trouvé.",
+    "EraGaslight": "Gaslight – Angleterre victorienne",
+    "EraClassic": "Classique – Les Années Folles",
+    "EraPulp": "Pulp Cthulhu",
+    "EraModern": "Moderne – Époque contemporaine",
+    "EraUnassigned": "Non assigné"
+  }
+}

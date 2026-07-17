@@ -1,0 +1,17 @@
+{
+  "COC7LUCK": {
+    "ButtonTitle": "Party Luck",
+    "WindowTitle": "Investigators' Luck",
+    "ColName": "Investigator",
+    "ColLuck": "Luck",
+    "ColEra": "Era",
+    "Lowest": "Lowest value",
+    "Refresh": "Refresh",
+    "NoActors": "No player character found.",
+    "EraGaslight": "Gaslight – Victorian England",
+    "EraClassic": "Classic – The Roaring Twenties",
+    "EraPulp": "Pulp Cthulhu",
+    "EraModern": "Modern – Present Day",
+    "EraUnassigned": "Unassigned"
+  }
+}
