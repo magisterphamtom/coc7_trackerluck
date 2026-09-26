@@ -36,7 +36,9 @@
       {
         "id": "CoC7",
         "type": "system",
-        "compatibility": {}
+        "compatibility": {
+          "verified": "8.15"
+        }
       }
     ]
   },
