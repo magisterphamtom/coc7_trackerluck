@@ -2,10 +2,10 @@
   "id": "coc7-trackerluck",
   "title": "CoC7 – Suivi de Chance du groupe",
   "description": "Ajoute un bouton dans la barre d'outils de la scène (contrôles de Jeton) qui ouvre une fenêtre listant la valeur de Chance de tous les investigateurs joueurs, regroupés par époque (Gaslight, Classique, Pulp, Moderne), avec mise en évidence automatique de la valeur la plus basse du groupe — celle utilisée par défaut pour les jets de Chance collectifs. Se rafraîchit automatiquement dès qu'une fiche est modifiée. Compatible avec toute campagne CoC7, quelle que soit son époque.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": "13",
-    "verified": "14"
+    "verified": "14.368"
   },
   "authors": [
     {
@@ -20,12 +20,24 @@
     "styles/luck-tracker.css"
   ],
   "languages": [
-    { "lang": "fr", "name": "Français", "path": "lang/fr.json" },
-    { "lang": "en", "name": "English", "path": "lang/en.json" }
+    {
+      "lang": "fr",
+      "name": "Français",
+      "path": "lang/fr.json"
+    },
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
   ],
   "relationships": {
     "systems": [
-      { "id": "CoC7", "type": "system", "compatibility": {} }
+      {
+        "id": "CoC7",
+        "type": "system",
+        "compatibility": {}
+      }
     ]
   },
   "readme": "https://github.com/magisterphamtom/coc7_trackerluck/blob/main/README.md",
